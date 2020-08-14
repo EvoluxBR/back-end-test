@@ -88,7 +88,7 @@ your project and simply run `docker-compose up` to make see it working.
 
 We'll need to know how to test your API, of course, for all CRUD operations.
 It may be on an exported Postman project, for example.
-But if you write `curl` bash scripts, that will be more then enough too.
+But if you write `curl` bash scripts, that will be more than enough too.
 
 Also, give us instructions on how to run the dockerized tests, in case you write them.
 
